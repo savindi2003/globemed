@@ -1,0 +1,286 @@
+Aug 22, 2025 5:27:50 PM gui.allPatients jButton2ActionPerformed
+WARNING: java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`globemed_db`.`insurance`, CONSTRAINT `FK_insurance_insurance_providers` FOREIGN KEY (`provider_id`) REFERENCES `insurance_providers` (`id`))
+Aug 22, 2025 5:28:02 PM gui.allPatients jButton2ActionPerformed
+WARNING: java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`globemed_db`.`insurance`, CONSTRAINT `FK_insurance_insurance_providers` FOREIGN KEY (`provider_id`) REFERENCES `insurance_providers` (`id`))
+Aug 22, 2025 5:29:21 PM gui.allPatients jButton2ActionPerformed
+WARNING: java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`globemed_db`.`insurance`, CONSTRAINT `FK_insurance_insurance_providers` FOREIGN KEY (`provider_id`) REFERENCES `insurance_providers` (`id`))
+Aug 22, 2025 5:30:39 PM gui.allPatients jButton2ActionPerformed
+WARNING: java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`globemed_db`.`insurance`, CONSTRAINT `FK_insurance_insurance_providers` FOREIGN KEY (`provider_id`) REFERENCES `insurance_providers` (`id`))
+Aug 23, 2025 10:57:17 AM gui.appoinment1 jButton2ActionPerformed
+WARNING: java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`globemed_db`.`patient`, CONSTRAINT `fk_patient_branch1` FOREIGN KEY (`branch_id`) REFERENCES `branch` (`id`))
+Aug 23, 2025 10:59:06 AM gui.appoinment1 jButton2ActionPerformed
+WARNING: java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`globemed_db`.`patient`, CONSTRAINT `fk_patient_branch1` FOREIGN KEY (`branch_id`) REFERENCES `branch` (`id`))
+Aug 23, 2025 11:02:29 AM gui.appoinment1 jButton2ActionPerformed
+WARNING: java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`globemed_db`.`patient`, CONSTRAINT `fk_patient_branch1` FOREIGN KEY (`branch_id`) REFERENCES `branch` (`id`))
+Aug 23, 2025 5:48:21 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Table 'globemed_db.appointment' doesn't exist
+Aug 23, 2025 5:48:23 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Table 'globemed_db.appointment' doesn't exist
+Aug 23, 2025 5:48:24 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Table 'globemed_db.appointment' doesn't exist
+Aug 23, 2025 5:48:25 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Table 'globemed_db.appointment' doesn't exist
+Aug 23, 2025 5:48:25 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Table 'globemed_db.appointment' doesn't exist
+Aug 23, 2025 5:48:26 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Table 'globemed_db.appointment' doesn't exist
+Aug 23, 2025 5:48:26 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Table 'globemed_db.appointment' doesn't exist
+Aug 23, 2025 5:48:27 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Table 'globemed_db.appointment' doesn't exist
+Aug 23, 2025 5:48:29 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Table 'globemed_db.appointment' doesn't exist
+Aug 23, 2025 5:48:29 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Table 'globemed_db.appointment' doesn't exist
+Aug 23, 2025 5:48:30 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Table 'globemed_db.appointment' doesn't exist
+Aug 23, 2025 5:48:30 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Table 'globemed_db.appointment' doesn't exist
+Aug 23, 2025 5:48:31 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Table 'globemed_db.appointment' doesn't exist
+Aug 23, 2025 5:48:31 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Table 'globemed_db.appointment' doesn't exist
+Aug 23, 2025 5:48:32 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Table 'globemed_db.appointment' doesn't exist
+Aug 23, 2025 5:48:32 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Table 'globemed_db.appointment' doesn't exist
+Aug 23, 2025 5:48:32 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Table 'globemed_db.appointment' doesn't exist
+Aug 23, 2025 5:48:33 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Table 'globemed_db.appointment' doesn't exist
+Aug 23, 2025 5:48:33 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Table 'globemed_db.appointment' doesn't exist
+Aug 23, 2025 5:48:33 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Table 'globemed_db.appointment' doesn't exist
+Aug 23, 2025 6:02:38 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'appointment_status' in 'where clause'
+Aug 23, 2025 6:02:41 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'appointment_status' in 'where clause'
+Aug 23, 2025 6:02:46 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'appointment_status' in 'where clause'
+Aug 23, 2025 6:02:47 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'appointment_status' in 'where clause'
+Aug 23, 2025 6:02:47 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'appointment_status' in 'where clause'
+Aug 23, 2025 6:02:48 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'appointment_status' in 'where clause'
+Aug 23, 2025 6:02:48 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'appointment_status' in 'where clause'
+Aug 23, 2025 6:02:48 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'appointment_status' in 'where clause'
+Aug 23, 2025 6:02:49 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'appointment_status' in 'where clause'
+Aug 23, 2025 6:02:49 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'appointment_status' in 'where clause'
+Aug 23, 2025 6:02:49 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'appointment_status' in 'where clause'
+Aug 23, 2025 6:02:50 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'appointment_status' in 'where clause'
+Aug 23, 2025 6:02:51 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'appointment_status' in 'where clause'
+Aug 23, 2025 6:02:51 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'appointment_status' in 'where clause'
+Aug 23, 2025 6:02:51 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'appointment_status' in 'where clause'
+Aug 23, 2025 6:02:52 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'appointment_status' in 'where clause'
+Aug 23, 2025 6:02:52 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'appointment_status' in 'where clause'
+Aug 23, 2025 6:02:52 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'appointment_status' in 'where clause'
+Aug 23, 2025 6:02:52 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'appointment_status' in 'where clause'
+Aug 23, 2025 6:02:53 PM gui.appoinment1 getAppointmentsForSlot
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'appointment_status' in 'where clause'
+Aug 29, 2025 10:38:12 AM gui.allPatients loadTable
+WARNING: java.lang.NullPointerException: Cannot invoke "security.PatientDataSource.loadPatients()" because "this.secureDao" is null
+Aug 29, 2025 10:38:39 AM gui.allPatients loadTable
+WARNING: java.lang.IllegalArgumentException: Illegal base64 character 20
+Aug 29, 2025 10:42:15 AM gui.allPatients loadTable
+WARNING: java.lang.IllegalArgumentException: Illegal base64 character 20
+Aug 29, 2025 10:45:19 AM gui.allPatients loadTable
+WARNING: java.lang.IllegalArgumentException: Illegal base64 character 20
+Aug 29, 2025 10:46:07 AM gui.allPatients loadTable
+WARNING: java.lang.IllegalArgumentException: Illegal base64 character 20
+Aug 29, 2025 10:49:04 AM gui.allPatients loadTable
+WARNING: java.lang.IllegalArgumentException: Illegal base64 character 20
+Aug 29, 2025 10:52:05 AM gui.allPatients loadTable
+WARNING: java.lang.IllegalArgumentException: Illegal base64 character 20
+Aug 29, 2025 11:26:20 AM gui.allPatients loadTable
+WARNING: java.lang.SecurityException: Access Denied! Guest cannot view patients.
+Sep 01, 2025 11:19:52 AM gui.allPatients jButton2ActionPerformed
+WARNING: java.lang.UnsupportedOperationException: Not supported yet.
+Sep 01, 2025 11:26:36 AM gui.allPatients loadTable
+WARNING: java.lang.NullPointerException: Cannot invoke "java.sql.ResultSet.next()" because "rs" is null
+Sep 01, 2025 11:41:33 AM gui.allPatients jTextField7KeyReleased
+WARNING: java.lang.UnsupportedOperationException: Not supported yet.
+Sep 01, 2025 11:42:55 AM gui.allPatients jTextField7KeyReleased
+WARNING: java.lang.UnsupportedOperationException: Not supported yet.
+Sep 01, 2025 11:43:42 AM gui.allPatients jTextField7KeyReleased
+WARNING: java.lang.UnsupportedOperationException: Not supported yet.
+Sep 01, 2025 1:52:37 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'date' not found.
+Sep 01, 2025 1:52:39 PM gui.dashboard loadTableTreat
+WARNING: java.sql.SQLException: Column 'date' not found.
+Sep 01, 2025 1:52:40 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment.appoinment.id' not found.
+Sep 01, 2025 1:56:17 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'date' not found.
+Sep 01, 2025 1:56:18 PM gui.dashboard loadTableTreat
+WARNING: java.sql.SQLException: Column 'date' not found.
+Sep 01, 2025 1:56:19 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment.appoinment.id' not found.
+Sep 01, 2025 1:56:23 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'date' not found.
+Sep 01, 2025 1:56:24 PM gui.dashboard loadTableTreat
+WARNING: java.sql.SQLException: Column 'date' not found.
+Sep 01, 2025 1:56:24 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment.appoinment.id' not found.
+Sep 01, 2025 1:57:15 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'date' not found.
+Sep 01, 2025 1:57:17 PM gui.dashboard loadTableTreat
+WARNING: java.sql.SQLException: Column 'date' not found.
+Sep 01, 2025 1:57:18 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment.id' not found.
+Sep 01, 2025 1:58:09 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'date' not found.
+Sep 01, 2025 1:58:11 PM gui.dashboard loadTableTreat
+WARNING: java.sql.SQLException: Column 'date' not found.
+Sep 01, 2025 1:58:12 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment.appoinment_id' not found.
+Sep 01, 2025 1:59:52 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'date' not found.
+Sep 01, 2025 1:59:53 PM gui.dashboard loadTableTreat
+WARNING: java.sql.SQLException: Column 'date' not found.
+Sep 01, 2025 1:59:54 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment.appoinment_id' not found.
+Sep 01, 2025 2:05:05 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'date' not found.
+Sep 01, 2025 2:05:06 PM gui.dashboard loadTableTreat
+WARNING: java.sql.SQLException: Column 'date' not found.
+Sep 01, 2025 2:05:07 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment.appoinment_id' not found.
+Sep 01, 2025 2:07:18 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'date' not found.
+Sep 01, 2025 2:07:21 PM gui.dashboard loadTableTreat
+WARNING: java.sql.SQLException: Column 'treatment.date' not found.
+Sep 01, 2025 2:07:21 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment.appoinment_id' not found.
+Sep 01, 2025 2:09:15 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'date' not found.
+Sep 01, 2025 2:09:17 PM gui.dashboard loadTableTreat
+WARNING: java.sql.SQLException: Column 'treatment.date' not found.
+Sep 01, 2025 2:09:17 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment.appoinment_id' not found.
+Sep 01, 2025 2:17:26 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'diagnosis_date' not found.
+Sep 01, 2025 2:17:28 PM gui.dashboard loadTableTreat
+WARNING: java.sql.SQLException: Column 'treatment.date' not found.
+Sep 01, 2025 2:17:28 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment.appoinment_id' not found.
+Sep 01, 2025 2:27:04 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'diagnosis_date' not found.
+Sep 01, 2025 2:27:05 PM gui.dashboard loadTableTreat
+WARNING: java.sql.SQLException: Column 'treatment.date' not found.
+Sep 01, 2025 2:27:06 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment.appoinment_id' not found.
+Sep 01, 2025 2:40:40 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'diagnosis_date' not found.
+Sep 01, 2025 2:40:42 PM gui.dashboard loadTableTreat
+WARNING: java.sql.SQLException: Column 'treatment.date' not found.
+Sep 01, 2025 2:40:42 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment.appoinment_id' not found.
+Sep 01, 2025 2:42:27 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'diagnosis_date' not found.
+Sep 01, 2025 2:42:28 PM gui.dashboard loadTableTreat
+WARNING: java.sql.SQLException: Column 'treatment.date' not found.
+Sep 01, 2025 2:42:29 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment.appoinment_id' not found.
+Sep 01, 2025 2:44:09 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'testType' not found.
+Sep 01, 2025 2:44:11 PM gui.dashboard loadTableTreat
+WARNING: java.sql.SQLException: Column 'type' not found.
+Sep 01, 2025 2:44:11 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment.date' not found.
+Sep 01, 2025 3:32:43 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'testType' not found.
+Sep 01, 2025 3:32:44 PM gui.dashboard loadTableTreat
+WARNING: java.sql.SQLException: Column 'type' not found.
+Sep 01, 2025 3:32:45 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment.date' not found.
+Sep 01, 2025 3:38:09 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment.appoinment_id' not found.
+Sep 01, 2025 3:38:40 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appointment_date' not found.
+Sep 01, 2025 3:41:44 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment.appoinment_id' not found.
+Sep 01, 2025 3:41:53 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment.appoinment_id' not found.
+Sep 01, 2025 3:43:09 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment.appoinment_id' not found.
+Sep 01, 2025 3:44:02 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment.appoinment_id' not found.
+Sep 01, 2025 3:46:49 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appointment_date' not found.
+Sep 01, 2025 3:49:51 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appointment_date' not found.
+Sep 01, 2025 3:50:00 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appointment_date' not found.
+Sep 01, 2025 3:57:26 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment_id' not found.
+Sep 01, 2025 3:58:27 PM gui.dashboard loadTableAppointment
+WARNING: java.sql.SQLException: Column 'appoinment_id' not found.
+Sep 01, 2025 4:02:22 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'diagnosis_date' not found.
+Sep 01, 2025 4:10:36 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'diagnosis_date' not found.
+Sep 01, 2025 4:13:28 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'diagnosis.id' not found.
+Sep 01, 2025 4:14:19 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'diagnosis_date' not found.
+Sep 01, 2025 4:19:26 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'diagnosis_date' not found.
+Sep 01, 2025 4:37:31 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column 'diagnosis_date' not found.
+Sep 01, 2025 5:31:49 PM gui.dashboard loadTableD
+WARNING: java.sql.SQLException: Column Index out of range, 6 > 5. 
+Sep 01, 2025 5:31:50 PM gui.dashboard loadTableTreat
+WARNING: java.sql.SQLException: Column Index out of range, 6 > 5. 
+Sep 01, 2025 10:48:11 PM gui.dashboard jButton7ActionPerformed
+WARNING: java.sql.SQLSyntaxErrorException: Unknown column 'doctor_id' in 'field list'
+Sep 02, 2025 12:00:04 AM gui.appoinmentList loadBranch
+WARNING: java.lang.RuntimeException: Uncompilable code - cannot find symbol
+  symbol:   variable jComboBox6
+  location: class gui.appoinmentList
+Sep 02, 2025 12:00:07 AM gui.appoinmentList loadStaff
+WARNING: java.lang.RuntimeException: Uncompilable code - cannot find symbol
+  symbol:   variable jComboBox4
+  location: class gui.appoinmentList
+Sep 02, 2025 12:00:08 AM gui.appoinmentList loadClinic
+WARNING: java.lang.RuntimeException: Uncompilable code - cannot find symbol
+  symbol:   variable jComboBox3
+  location: class gui.appoinmentList
+Sep 02, 2025 12:00:09 AM gui.appoinmentList loadRoom
+WARNING: java.lang.RuntimeException: Uncompilable code - cannot find symbol
+  symbol:   variable jComboBox5
+  location: class gui.appoinmentList
+Sep 02, 2025 11:32:03 PM gui.allPatients loadTable
+WARNING: java.sql.SQLException: Incorrect integer value: 'LOG] Load all patients at 2025-09-02T23:32:03.754909900' for column 'description' at row 1
+Sep 04, 2025 2:28:52 PM gui.staffManagement loadTable
+WARNING: java.lang.SecurityException: Access Denied! Guest cannot view patients.
+Sep 04, 2025 11:15:25 PM gui.staffManagement loadSearchStaff
+WARNING: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INACTIVE'  at 2025-09-04 23:15:25','2025-09-04 23:15:25')' at line 1
+Sep 04, 2025 11:15:27 PM gui.staffManagement loadSearchStaff
+WARNING: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INACTIVE'  at 2025-09-04 23:15:27','2025-09-04 23:15:27')' at line 1
+Sep 10, 2025 1:44:40 PM gui.dashboard jButton2ActionPerformed
+WARNING: com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'address' at row 1
+Sep 10, 2025 1:46:09 PM gui.dashboard jButton2ActionPerformed
+WARNING: com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'address' at row 1
+Sep 10, 2025 2:20:27 PM gui.dashboard jButton2ActionPerformed
+WARNING: java.lang.SecurityException: Access Denied! Only Doctor/Admin can insert patients.
+Sep 10, 2025 11:25:46 PM gui.staffManagement loadSearchStaff
+WARNING: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ACTIVE' AND `staff`.`name` LIKE '%J%'  at 2025-09-10 23:25:45','2025-09-10 23:25' at line 1
+Sep 10, 2025 11:25:50 PM gui.staffManagement loadSearchStaff
+WARNING: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INACTIVE'  at 2025-09-10 23:25:50','2025-09-10 23:25:50')' at line 1
+Sep 10, 2025 11:25:51 PM gui.staffManagement loadSearchStaff
+WARNING: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INACTIVE'  at 2025-09-10 23:25:51','2025-09-10 23:25:51')' at line 1

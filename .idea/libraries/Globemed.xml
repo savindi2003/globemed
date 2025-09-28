@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Globemed">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Globemed.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

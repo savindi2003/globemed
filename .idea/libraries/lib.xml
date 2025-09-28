@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/mysql-connector-java-8.0.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/net.sf.jasperreports_6.20.5.final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/flatlaf-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-beanutils-1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itextpdf-5.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jasperreports-6.20.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/barbecue-1.5-beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/gson-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/JImagePanel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/xmlworker-5.5.13.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
