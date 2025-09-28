@@ -1,0 +1,6 @@
+# Ignore build artifacts 
+/dist/
+/build/
+/out/
+*.jar
+*.class
